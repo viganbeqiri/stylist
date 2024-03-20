@@ -29,7 +29,7 @@
                                 @else
                                 <li><a href="{{route('login')}}">Login / Register</a></li>
                                 @endauth
-                                <li><a href="{{ url('cart')}}">Shopping Cart</a></li>
+                                <li><a href="{{ url('cart-list')}}">Shopping Cart</a></li>
                                 <li><a href="wishlist.html">Wishlist</a></li>
                                 <li><a href="{{ url('checkout') }}">Checkout</a></li>
                             </ul>
