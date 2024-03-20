@@ -17,7 +17,9 @@
                 <div class="tm-product tm-scrollanim">
                     <div class="tm-product-topside">
                         <div class="tm-product-images">
+                            @if($product->images)
                             <img src="{{ asset('images/' . $product->images[0]) }}" alt="product image" style="width:270px; height:360px">
+                            @endif
                         </div>
                         <ul class="tm-product-actions">
                             <li>

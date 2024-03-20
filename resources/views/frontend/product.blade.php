@@ -20,9 +20,11 @@
                                         @foreach ($product->images as $image)
 
                                         <div class="tm-prodetails-largeimage">
+                                            @if($product->images)
                                             <a data-fancybox="tm-prodetails-imagegallery" href="{{ asset('images/' . $product->images[0]) }}" data-caption="Product Zoom Image 1">
                                                 <img src="{{ asset('images/' . $product->images[0]) }}" alt="product image">
                                             </a>
+                                            @endif
                                         </div>
                                         @endforeach
 
@@ -30,7 +32,7 @@
                                     <div class="tm-prodetails-thumbnails">
                                         @foreach ($product->images as $image)
                                         <div class="tm-prodetails-thumbnail">
-                                            <img src="{{ asset('images/' . $product->images[0]) }}" alt="product image">
+                                            <img src="{{ asset('images/' . $product->image) }}" alt="product image">
                                         </div>
                                         @endforeach
                                     </div>
