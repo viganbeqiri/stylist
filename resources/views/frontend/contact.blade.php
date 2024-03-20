@@ -17,8 +17,8 @@
                         <div class="tm-contact-block text-center">
                             <i class="ion-android-call"></i>
                             <h6>Call Us</h6>
-                            <p>Phone : <a href="tel:+18009156270">1 800 915 6270</a></p>
-                            <p>Tel : <a href="tel:+15147332010">1 514 733 2010</a></p>
+                            <p>Phone : <a href="tel:+177299997">177299997</a></p>
+                            <p>Whatsapp : <a href="tel:+177299997">177299997</a></p>
                         </div>
                     </div>
                     <!--// Contact block -->
@@ -28,7 +28,7 @@
                         <div class="tm-contact-block text-center">
                             <i class="ion-location"></i>
                             <h6>Our Location</h6>
-                            <p>7415 Transcanadienne, Suite 100 St. Laurent, Quebec, Canada H45T 1Z22</p>
+                            <p>BLANCPAIN Moda Mall, Manama, Bahrain</p>
                         </div>
                     </div>
                     <!--// Contact block -->
@@ -38,8 +38,8 @@
                         <div class="tm-contact-block text-center">
                             <i class="ion-email"></i>
                             <h6>Email</h6>
-                            <p><a href="mailto:surose@gmail.com">surose@gmail.com</a></p>
-                            <p><a href="mailto:info@surose.com">info@surose.com</a></p>
+                            <p><a href="mailto:surose@gmail.com">info@digitalgate.ae</a></p>
+                            <p><a href="mailto:info@surose.com">contact@digitalgate.ae</a></p>
                         </div>
                     </div>
                     <!--// Contact block -->
