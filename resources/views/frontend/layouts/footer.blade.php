@@ -12,7 +12,7 @@
                 <!-- Single Widget -->
                 <div class="col-lg-3 col-md-6 col-12">
                     <div class="single-widget widget-info">
-                        <a class="widget-info-logo" href="index.html"><img src="frontend/images/logo.png" alt="logo"></a>
+                        <a class="widget-info-logo" href="index.html"><img src="frontend/images/bespoke.png" alt="logo"></a>
                         <p>Lorem ipsum dolor sit amet, consect etur adipiscing elit.</p>
                         <ul>
                             <li><b>Address :</b>2726 Avenue Papineau Montreal, QC, Canada</li>

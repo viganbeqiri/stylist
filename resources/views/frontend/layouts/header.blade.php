@@ -66,7 +66,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-3 col-6 order-1 order-lg-1">
                     <a href="/" class="tm-header-logo">
-                        <img src="frontend/images/logo.png" alt="bespoke">
+                        <img src="frontend/images/bespoke.png" alt="bespoke">
                     </a>
                 </div>
                 <div class="col-lg-6 col-12 order-3 order-lg-2">
