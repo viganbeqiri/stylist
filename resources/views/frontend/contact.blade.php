@@ -38,8 +38,8 @@
                         <div class="tm-contact-block text-center">
                             <i class="ion-email"></i>
                             <h6>Email</h6>
-                            <p><a href="mailto:surose@gmail.com">info@digitalgate.ae</a></p>
-                            <p><a href="mailto:info@surose.com">contact@digitalgate.ae</a></p>
+                            <p><a href="mailto:info@almudaifa.com">info@almudaifa.com</a></p>
+                            <p><a href="mailto:contact@almudaifa.com">contact@almudaifa.com</a></p>
                         </div>
                     </div>
                     <!--// Contact block -->

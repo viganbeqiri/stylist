@@ -66,7 +66,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-3 col-6 order-1 order-lg-1">
                     <a href="/" class="tm-header-logo">
-                        <img src="frontend/images/logo.png" alt="surose">
+                        <img src="frontend/images/logo/logo1.png" alt="surose">
                     </a>
                 </div>
                 <div class="col-lg-6 col-12 order-3 order-lg-2">
@@ -96,7 +96,7 @@
                     <li class="tm-header-nav-dropdown"><a href="products.html">Shop</a>
                         <ul>
                             <li><a href="{{ url('products') }}">Products</a></li>
-                            
+
                         </ul>
                     </li>
                     <li class="tm-header-nav-megamenu"><a href="index.html">Pages</a>
