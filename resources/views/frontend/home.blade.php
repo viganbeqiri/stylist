@@ -179,8 +179,7 @@
                                 <li><a href="blog-details.html"><i class="ion-chatbubbles"></i> 3 Comments</a>
                                 </li>
                             </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incdidunt ut labore et dolore magna aliqua [....]</p>
+                            <p>Discover our unique, handcrafted jewellery that tells your personal story. Start your journey with us today [....]</p>
                             <a href="blog-details.html" class="tm-readmore">Read more</a>
                         </div>
                     </div>

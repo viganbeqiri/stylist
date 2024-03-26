@@ -158,10 +158,7 @@
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis quemi
-                                                dolor, malesuada id metus a, mattis eleifend elit. Nullam pharetra
-                                                consequat ex in dapibus. Vestibulum ante ipsum primis in faucibus
-                                                orciluctus curae.</p>
+                                            <p>Discover our unique, handcrafted jewellery that tells your personal story. Start your journey with us today.</p>
                                             <div class="tm-prodetails-quantitycart">
                                                 <h6>Quantity :</h6>
                                                 <div class="tm-quantitybox">
