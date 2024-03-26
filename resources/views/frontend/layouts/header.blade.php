@@ -6,8 +6,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-8 col-12">
                     <ul class="tm-header-info">
-                        <li><a href="tel:18883456789"><i class="ion-ios-telephone"></i>1-888-345-6789</a></li>
-                        <li><a href="mailto:contact@example.com"><i class="ion-android-mail"></i>contact@example.com</a></li>
+                        <li><a href="tel:177299997"><i class="ion-ios-telephone"></i>177299997</a></li>
+                        <li><a href="mailto:info@almudaifa.com"><i class="ion-android-mail"></i>info@almudaifa.com</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-12">
