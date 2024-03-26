@@ -13,17 +13,10 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="tm-about-content">
-                        <h4>WELCOME TO SUROSE STORE</h4>
-                        <h6>Lorem ipsum dolor sit amet consectetur adipisicing elitsed do
-                            eiusmod ncididunt ametfh consectetur.</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quisnos trud
-                            exercitation ullamco laboris nisi ut aliquip ex ea com modo consequat. Duis aute
-                            irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                            pariatur.</p>
-                        <p>Excepteur sint occaecat cupidatat non proident.sunt in culpa qui officia deserunt
-                            mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incid
-                            idunt ut labore et dolore magna aliqua.</p>
+                        <h4>WELCOME TO Bespoke Jewellers</h4>
+                        <h6>Where exquisite craftsmanship meets elegance in Manama, Bahrain.</h6>
+                        <p>Discover our unique, handcrafted jewellery that tells your personal story. Start your journey with us today.</p>
+                        <p>Explore our exclusive collection, designed to add a touch of luxury to every moment. Your masterpiece awaits.</p>
                     </div>
                 </div>
             </div>
@@ -38,8 +31,7 @@
                 <div class="col-lg-6 col-12">
                     <div class="tm-sectiontitle text-center">
                         <h3>MEET OUR TEAM</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed aci erat dales vitakse
-                            dalesnon estin vitae egestas.</p>
+                        <p>"Meet our skilled artisans, whose passion and expertise bring to life the extraordinary pieces that define your style. Together, we create not just jewellery, but heirlooms.</p>
                     </div>
                 </div>
             </div>
@@ -79,7 +71,7 @@
                             </ul>
                         </div>
                         <div class="tm-member-bottomside">
-                            <h6>Jamie McGuirk</h6>
+                            <h6>John Doe</h6>
                             <p>Managing Director</p>
                         </div>
                     </div>
@@ -99,7 +91,7 @@
                             </ul>
                         </div>
                         <div class="tm-member-bottomside">
-                            <h6>Sebastian Goudie</h6>
+                            <h6>Jane Doe</h6>
                             <p>Sales Director</p>
                         </div>
                     </div>
@@ -119,7 +111,7 @@
                             </ul>
                         </div>
                         <div class="tm-member-bottomside">
-                            <h6>Bailey Beggs</h6>
+                            <h6>Jack Doe</h6>
                             <p>Support Guru</p>
                         </div>
                     </div>
