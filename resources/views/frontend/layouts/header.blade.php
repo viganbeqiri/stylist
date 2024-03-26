@@ -47,9 +47,7 @@
                             <button><img src="frontend/images/flag-english.png" alt="language">English</button>
                             <ul>
                                 <li><a href="#"><img src="frontend/images/flag-english.png" alt="language">English</a></li>
-                                <li><a href="#"><img src="frontend/images/flag-spain.png" alt="language">Spanish</a></li>
-                                <li><a href="#"><img src="frontend/images/flag-russian.png" alt="language">Russian</a></li>
-                                <li><a href="#"><img src="frontend/images/flag-french.png" alt="language">French</a></li>
+                                <li><a href="#"><img src="frontend/images/flag-spain.png" alt="language">Arabic</a></li>
                             </ul>
                         </div>
                     </div>
@@ -99,52 +97,52 @@
 
                         </ul>
                     </li>
-                    <li class="tm-header-nav-megamenu"><a href="index.html">Pages</a>
+{{--                    <li class="tm-header-nav-megamenu"><a href="index.html">Pages</a>--}}
 
-                        <ul>
-                            <li><a href="shop.html">Common Pages</a>
-                                <ul>
-                                    <li><a href="/">Homepage</a></li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="portfolios.html">Portfolios</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Blog Pages</a>
-                                <ul>
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-leftsidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="blog-details-leftsidebar.html">Blog Details Left Sidebar</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Shop Pages</a>
-                                <ul>
-                                    <li><a href="products.html">Products</a></li>
-                                    <li><a href="products-leftsidebar.html">Products Left Sidebar</a></li>
-                                    <li><a href="products-nosidebar.html">Products Without Sidebar</a></li>
-                                    <li><a href="products-4-column.html">Products 4 Column</a></li>
-                                    <li><a href="product-details.html">Product Details</a></li>
-                                    <li><a href="product-details-leftsidebar.html">Product Details Left
-                                            Sidebar</a></li>
-                                    <li><a href="product-details-nosidebar.html">Product Details Without
-                                            Sidebar</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Shop Related Pages</a>
-                                <ul>
-                                    <li><a href="{{ url('cart')}}">Shopping Cart</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                    <li><a href="{{ url('checkout') }}">Checkout</a></li>
-                                    <li><a href="{{ url('/home')}}">My Account</a></li>
-                                    <li><a href="{{route('login')}}">Login / Register</a></li>
-                                </ul>
-                            </li>
-                        </ul>
+{{--                        <ul>--}}
+{{--                            <li><a href="shop.html">Common Pages</a>--}}
+{{--                                <ul>--}}
+{{--                                    <li><a href="/">Homepage</a></li>--}}
+{{--                                    <li><a href="about.html">About</a></li>--}}
+{{--                                    <li><a href="portfolios.html">Portfolios</a></li>--}}
+{{--                                    <li><a href="contact.html">Contact</a></li>--}}
+{{--                                </ul>--}}
+{{--                            </li>--}}
+{{--                            <li><a href="#">Blog Pages</a>--}}
+{{--                                <ul>--}}
+{{--                                    <li><a href="blog.html">Blog</a></li>--}}
+{{--                                    <li><a href="blog-leftsidebar.html">Blog Left Sidebar</a></li>--}}
+{{--                                    <li><a href="blog-details.html">Blog Details</a></li>--}}
+{{--                                    <li><a href="blog-details-leftsidebar.html">Blog Details Left Sidebar</a>--}}
+{{--                                    </li>--}}
+{{--                                </ul>--}}
+{{--                            </li>--}}
+{{--                            <li><a href="#">Shop Pages</a>--}}
+{{--                                <ul>--}}
+{{--                                    <li><a href="products.html">Products</a></li>--}}
+{{--                                    <li><a href="products-leftsidebar.html">Products Left Sidebar</a></li>--}}
+{{--                                    <li><a href="products-nosidebar.html">Products Without Sidebar</a></li>--}}
+{{--                                    <li><a href="products-4-column.html">Products 4 Column</a></li>--}}
+{{--                                    <li><a href="product-details.html">Product Details</a></li>--}}
+{{--                                    <li><a href="product-details-leftsidebar.html">Product Details Left--}}
+{{--                                            Sidebar</a></li>--}}
+{{--                                    <li><a href="product-details-nosidebar.html">Product Details Without--}}
+{{--                                            Sidebar</a>--}}
+{{--                                    </li>--}}
+{{--                                </ul>--}}
+{{--                            </li>--}}
+{{--                            <li><a href="#">Shop Related Pages</a>--}}
+{{--                                <ul>--}}
+{{--                                    <li><a href="{{ url('cart')}}">Shopping Cart</a></li>--}}
+{{--                                    <li><a href="wishlist.html">Wishlist</a></li>--}}
+{{--                                    <li><a href="{{ url('checkout') }}">Checkout</a></li>--}}
+{{--                                    <li><a href="{{ url('/home')}}">My Account</a></li>--}}
+{{--                                    <li><a href="{{route('login')}}">Login / Register</a></li>--}}
+{{--                                </ul>--}}
+{{--                            </li>--}}
+{{--                        </ul>--}}
 
-                    </li>
+{{--                    </li>--}}
                     <li class="tm-header-nav-dropdown"><a href="blog.html">Blog</a>
                         <ul>
                             <li><a href="blog.html">Blog</a></li>
